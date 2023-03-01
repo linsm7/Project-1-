@@ -1,3 +1,29 @@
+/*Descrição do Projeto 01:
+
+Utilizando os conceitos de vetor, implemente um algoritmo que:
+
+1- inclua até 1000 usuários;
+2- edite um usuário;
+3- exclua um usuário;
+4- busque um usuário pelo email;
+5- imprima todos os usuários cadastrados;
+6- faça backup dos usuários cadastrados;
+7- faça restauração dos dados;
+
+Dados do usuário:
+
+Id (int) => preenchido automaticamente por números randômicos
+Nome completo (string)
+Email (string) => validação do campo: verificar se o caractere "@" aparece
+Sexo (string) => validação do campo: aceitar somente as palavras Feminino, Masculino e Não declarar
+Endereço (string)
+Altura (double) => validação do campo: aceitar valores entre 1 e 2 m.
+Vacina (tomou a vacina? boolean)*/
+
+
+
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
